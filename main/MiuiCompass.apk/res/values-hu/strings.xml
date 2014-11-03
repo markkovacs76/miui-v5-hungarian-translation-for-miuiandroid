@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Iránytű</string>
+    <string name="getting_location">Helymeghatározás...</string>
+    <string name="cannot_get_location">Helymeghatározás sikertelen</string>
+    <string name="location_north">É. hosszúság</string>
+    <string name="location_south">D. hosszúság</string>
+    <string name="location_east">K. szélesség</string>
+    <string name="location_west">NY. szélesség</string>
+    <string name="menu_calibrate">Kalibrálás</string>
+    <string name="menu_calibrate_altitude">Kalibrálási magasság</string>
+    <string name="calibrate_success">A kalibrálás befejeződött</string>
+    <string name="calibrate_failed_no_location">Hiba a kalibrálás során: Nem sikerült az aktuális hosszúságot és szélességet bemérni</string>
+    <string name="calibrate_failed_timeout">A szerverhez csatlakozás időtúllépése miatt nem sikerült a kalibrálás</string>
+    <string name="pressure_title">Légnyomás</string>
+    <string name="altitude_title">Magasság</string>
+    <string name="pressure">%.1f</string>
+    <string name="altitude">%.1f</string>
+    <string name="dialog_title_no_network">Nem talált hálózatot, csatlakozzon Wi-Fi-hez vagy engedélyezze az adatkapcsolatot</string>
+    <string name="dialog_calibrat_altitude">Magasság kalibrálása interneten keresztül</string>
+    <string name="latitude">SZÉ</string>
+    <string name="longitude">HOSSZ</string>
+    <string name="direction_north">É</string>
+    <string name="direction_south">D</string>
+    <string name="direction_east">K</string>
+    <string name="direction_west">Ny</string>
+    <string name="direction_north_east">ÉK</string>
+    <string name="direction_north_west">ÉNy</string>
+    <string name="direction_south_east">DK</string>
+    <string name="direction_south_west">DNy</string>
+    <string name="guide_toast">"Lehetséges,hogy interferencia van a mágneses mező körül.
+Kalibrálja az iránytűt a kép közepén lévő ábra szerint."</string>
+</resources>
