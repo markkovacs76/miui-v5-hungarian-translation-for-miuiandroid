@@ -30,7 +30,7 @@ Bármikor módosítható a Beállítások> Helyszolgáltatások menüpöntban"</
     <string name="traffic_protection_text_hint">Írja be az adatforgalmi korlát értékét.</string>
     <string name="data_usage_summary">Ha nem állítja be a korlátot, ajánlatos kikapcsolni az adatforgalmat. Ellenkező esetben a szolgáltató költséget számolhat fel.</string>
     <string name="use_data">Adatok engedélyezése</string>
-    <string name="input_method_category">Válassza ki az alapértelmezett bevteli módot</string>
+    <string name="input_method_category">Válassza ki az alapértelmezett beviteli módot</string>
     <string name="input_method">Beviteli mód</string>
     <string name="default_gprs_sim_name">Adja meg az adatforgalmi korlát értékét \"%s\"</string>
 </resources>
