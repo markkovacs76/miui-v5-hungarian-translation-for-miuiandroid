@@ -10,7 +10,7 @@
     <string name="other_service_google_location_use">Helyszínek &amp; Google keresés</string>
     <string name="other_service_google_location_use_summary">Engedélyezheti,hogy a Google felhasználhatja helyadatait a jobb ekeresési eredményekhez és egyéb szolgáltatásokhoz</string>
     <string name="other_service_google_location_use_help">"Engedélyezés,hogy a Google helyszolgáltatása névtelen helyszínadatokat gyűjtsön. Adatgyűjtés akkor is, ha semmilyen program sem fut.
-Bármikor módosítható a Beállítások> Helyszolgáltatások menüpöntban"</string>
+Bármikor módosítható a Beállítások> Helyszolgáltatások menüpontban"</string>
     <string name="other_service_permission_manager">Alkalmazások engedélyeinek kezelése</string>
     <string name="other_service_permission_manager_summary">Alkalmazások biztonságának és adatvédelmének kezelése</string>
     <string name="other_service_user_experience">Csatlakozzon a felhasználói élmény programunkhoz</string>
