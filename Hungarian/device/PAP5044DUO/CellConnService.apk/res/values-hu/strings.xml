@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CellConnectionService</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Mégse</string>
+    <string name="confirm_radio_title">SIM kikapcsolva</string>
+    <string name="confirm_radio_msg">%1$s kikapcsolva. Szeretné most bekapcsolni ezt a SIM-kártyát?</string>
+    <string name="confirm_radio_flight_mode_on_and_msg">A repülőgép mód be van kapcsolva, és</string>
+    <string name="confirm_radio_flight_mode_on_sim_off_msg">%1$s kikapcsolva. Szeretné most kikapcsolni a repülőgép módot, és bekapcsolni ezt a SIM-kártyát?</string>
+    <string name="confirm_radio_flight_mode_on_sim_on_msg">A repülőgép mód be van kapcsolva. Szeretné most kikapcsolni?</string>
+    <string name="confirm_radio_msg_single">A repülőgép mód be van kapcsolva. Szeretné most kikapcsolni?</string>
+    <string name="confirm_pin_title">SIM lezárva</string>
+    <string name="confirm_pin_msg">A kijelölt SIM-kártya zárolva van. Előbb oldja ki.</string>
+    <string name="confirm_simmelock_title">SIM ME lezárva</string>
+    <string name="confirm_simmelock_msg">A kijelölt SIM-nyílás zárolva van. Előbb oldja ki.</string>
+    <string name="confirm_fdn_title">FDN engedélyezve</string>
+    <string name="confirm_fdn_msg">A fix hívószámok engedélyezve.</string>
+    <string name="confirm_roaming_title">Barangolási figyelmeztetés</string>
+    <string name="confirm_roaming_msg">A felhasználni kívánt SIM-kártya most barangol. Nincs elérhető helyi SIM. Folytatja?</string>
+    <string name="confirm_roaming_withPrefer_msg">A felhasználni kívánt SIM-kártya most barangol. Folytatja a helyi SIM-mel?</string>
+    <string name="confirm_roaming_lbutton">Helyi SIM</string>
+    <string name="confirm_roaming_rbutton">Barangoló SIM</string>
+    <string name="confirm_roamingWithPrefer_lbutton">Helyi SIM</string>
+    <string name="confirm_roamingWithPrefer_rbutton">Barangoló SIM</string>
+    <string name="confirm_radio_lbutton">Megnyitás</string>
+    <string name="confirm_unlock_lbutton">Kiold</string>
+    <string name="confirm_unlock_fail">Művelet megszakítva</string>
+    <string name="confirm_turnon_radio_fail">Művelet megszakítva</string>
+    <string name="confirm_permit_roaming_fail">Megszakította a műveletet a barangoló SIM-en</string>
+    <string name="confirm_sim_locked_message">SIM-kártya véglegesen zárolva.</string>
+    <string name="confirm_slot_locked_message">SIM nyílás véglegesen zárolva.</string>
+</resources>
